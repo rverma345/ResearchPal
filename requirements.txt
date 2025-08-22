@@ -4,3 +4,4 @@ langchain-community>=0.0.182
 faiss-cpu>=1.7.4
 huggingface-hub>=0.16.4
 python-dotenv>=1.0.0
+langchain_huggingface
